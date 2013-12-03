@@ -15,13 +15,9 @@ int menu()           // funkcja menu zwracaj¹ca wartoœæ int
 {
 
     cout << "[1] - Wprowadz nazwe pliku" << endl;      // wyœwietlenie menu
-
     cout << "[2] - Wyszukiwanie wzorca" << endl;
-
     cout << "[3] - Zamknij program" << endl;
-
     cout << "[4] - Autorzy" << endl;
-
     cout << "Wybierz opcje z menu";
 
     int pytanie;
